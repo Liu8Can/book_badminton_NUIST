@@ -80,6 +80,9 @@ cd book_badminton_NUIST
 
 **示例:**
 
+**脚本在不断优化中，v3或v4版本已经足够你使用，当前最新版本是v5，你可以使用 -h 命令来查看帮助文档** 
+示例：`python .\book_badmintonv5.py -h   `
+
 1.  **最简用法 (使用内置 Token，预约明天 10:00 的场地1):**
     ```bash
     python book_badmintonv3.py
