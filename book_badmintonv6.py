@@ -14,8 +14,8 @@ DEFAULT_EVENT_ID = "b8d2f7e00603f0f5af4de278c0b461b8"
 DEFAULT_AUTH_TOKEN = "" # 建议默认留空，强制命令行提供或提示
 DEFAULT_TARGET_DATE = (date.today() + timedelta(days=1)).strftime('%Y-%m-%d')
 DEFAULT_SCHEDULE_TIME = "08:04" # 默认执行时间，根据实际调整
-DEFAULT_MAX_RETRIES = 100        # 新增：默认最大重试次数
-DEFAULT_RETRY_DELAY = 0.1        # 新增：默认重试间隔（秒）
+DEFAULT_MAX_RETRIES = 1000        # 新增：默认最大重试次数
+DEFAULT_RETRY_DELAY = 0.5        # 新增：默认重试间隔（秒）
 
 # --- 函数定义 (保持不变) ---
 def build_headers(token):
