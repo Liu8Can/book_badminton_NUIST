@@ -6,6 +6,10 @@
 [![GitHub stars](https://img.shields.io/github/stars/Liu8Can/book_badminton_NUIST?style=social)](https://github.com/Liu8Can/book_badminton_NUIST/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/Liu8Can/book_badminton_NUIST?style=social)](https://github.com/Liu8Can/book_badminton_NUIST/network/members)
 
+> 🛑 **警告**：本项目遵循 [MIT 协议](https://opensource.org/licenses/MIT)。任何对项目的修改和发布必须保留原作者署名。
+> **本项目禁止传播，有缘人自会看到。**
+
+毕业了，把这个项目公开当做送学弟学妹们的礼物吧
 一个用于自动化预约南京信息工程大学（NUIST）场馆（默认为教职工活动中心羽毛球场）的 Python 脚本。脚本通过模拟微信 H5 页面的 API 请求，实现自动查询空闲时段并尝试预订。
 
 **仓库地址:** [https://github.com/Liu8Can/book_badminton_NUIST](https://github.com/Liu8Can/book_badminton_NUIST)
