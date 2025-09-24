@@ -60,7 +60,6 @@ cd book_badminton_NUIST
     `Cookie: JSESSIONID=ABCDEF...; token=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c`
     你需要复制的部分是：`eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c`
 
-好的，根据你提供的最新代码，这里是更新后的、更详细的 `README.md` 文档中的 **“运行脚本”** 部分。这部分包含了各种参数的使用方法和示例，希望能帮助你（或其他用户）快速上手和回忆起如何使用。
 
 ## 🚀 运行脚本
 
