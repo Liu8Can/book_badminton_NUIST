@@ -12,6 +12,7 @@
 毕业了，把这个项目公开当做送学弟学妹们的礼物吧
 一个用于自动化预约南京信息工程大学（NUIST）场馆（默认为教职工活动中心羽毛球场）的 Python 脚本。脚本通过模拟微信 H5 页面的 API 请求，实现自动查询空闲时段并尝试预订。
 
+又是想念南信大时光的一天 工作太累了 想念s8号线 想念校史馆 想念阅江楼 以及我的老师和朋友们
 **仓库地址:** [https://github.com/Liu8Can/book_badminton_NUIST](https://github.com/Liu8Can/book_badminton_NUIST)
 
 ## ✨ 功能特性
